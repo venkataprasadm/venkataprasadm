@@ -14,7 +14,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <code>ASP.NET</code>
 <code>.NET Core</code>
-<code>>Net Standard</code>
+<code>.Net Standard</code>
 <code>SQL Server</code>
 <code>Java Script</code>
 <code>JQuery</code>
